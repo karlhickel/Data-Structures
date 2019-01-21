@@ -1,0 +1,15 @@
+int main()
+{
+cout << "Hello how are you doing?" << endl;
+
+for(i = 0; i<=5; ++i)
+{
+  int count;
+  count++;
+}
+}
+
+
+
+FILE ENDS
+This was my test file. 
